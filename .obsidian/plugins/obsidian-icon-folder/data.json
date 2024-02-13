@@ -1,0 +1,1097 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 18,
+    "emojiStyle": "twemoji",
+    "iconColor": "#ff00dd",
+    "recentlyUsedIcons": [
+      "TiScreenshot",
+      "TiBrandSublimeText",
+      "SiSublimetext",
+      "RiFolder5Line",
+      "SiFiles",
+      "SiKde",
+      "BoBxCustomize",
+      "CoChat",
+      "LiQuote",
+      "SiAbstract",
+      "TiBlockquote",
+      "LiRemoveFormatting",
+      "RiAppleLine",
+      "TiBrandWindows",
+      "SiWindows",
+      "SiLinux",
+      "SiCodepen",
+      "CoCode",
+      "FasUserPen",
+      "RiBardFill",
+      "CoFolders",
+      "TiUsers",
+      "RiQuestionFill",
+      "FasRightToBracket",
+      "SiOpsgenie"
+    ],
+    "recentlyUsedIconsSize": 25,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Obsidian Administration": "SiObsidian",
+  "Obsidian Administration/Obsidian Integrations": "LiMerge",
+  "Obsidian Administration/Obsidian Log Files": "TiPencilCog",
+  "Obsidian Administration/Obsidian Log Files/Brat Plugin": "FasPlugCircleExclamation",
+  "Obsidian Administration/Obsidian Log Files/Brat Plugin/Obsidian_Brat_Logs.md": "FabBootstrap",
+  "Financial Administration": "FasMoneyCheckDollar",
+  "Personal Development": "SiMusicbrainz",
+  "Developmental Literature/Comptia Security+ Study Guide by Mike Chapple & David Seidl": "FasQuoteRight",
+  "Developmental Literature/Networking All In One by Doug Lowe": "FasQuoteRight",
+  "Personal Literature": "RiBook3Fill",
+  "Developmental Literature": "RiBook3Fill",
+  "Personal Development/Physical Systems & Components": "FasComputer",
+  "Personal Development/Obsidian": "SiObsidian",
+  "Personal Development/Networking": "FasNetworkWired",
+  "Personal Development/Finance": "TiBrandCashapp",
+  "Personal Development/Cybersecurity": "SiCyberdefenders",
+  "Personal Development/Cryptocurrency": "FabBitcoin",
+  "Personal Literature/Fierce Conversations by Susan Scott": {
+    "iconName": "FasQuoteRight",
+    "iconColor": "#ff664c"
+  },
+  "Personal Literature/The Psychology Of Money by Morgan Housel": {
+    "iconName": "FasQuoteRight",
+    "iconColor": "#ff664c"
+  },
+  "Obsidian Administration/Obsidian Color & Format": "BoBxColor",
+  "Personal Literature/Principles by Ray Dalio": {
+    "iconName": "FasQuoteRight",
+    "iconColor": "#707070"
+  },
+  "Periodic Notes": "CoTimer",
+  "Obsidian Administration/Obsidian Templates": "TiTemplate",
+  "Obsidian Administration/Obsidian Templates/Periodic Templates": "FasCalendarDay",
+  "Obsidian Administration/Obsidian Templates/Periodic Templates/Annually Periodic Template.md": "LiCalendarDays",
+  "Obsidian Administration/Obsidian Templates/Periodic Templates/Daily Periodic Template.md": "LiCalendarDays",
+  "Obsidian Administration/Obsidian Templates/Periodic Templates/Monthly Periodic Template.md": "LiCalendarDays",
+  "Obsidian Administration/Obsidian Templates/Periodic Templates/Quarterly Periodic Template.md": "LiCalendarDays",
+  "Obsidian Administration/Obsidian Templates/Periodic Templates/Weekly Periodic Template.md": "LiCalendarDays",
+  "Obsidian Administration/Obsidian Templates/Script Typeface  Templates": "FasSubscript",
+  "Obsidian Administration/Obsidian Templates/Script Typeface  Templates/Subscript Template.md": "TiSubscript",
+  "Obsidian Administration/Obsidian Templates/Script Typeface  Templates/Superscript Template.md": "TiSuperscript",
+  "Periodic Notes/Annually Periodic": "TiTimeline",
+  "Periodic Notes/Daily Periodic": "TiTimeline",
+  "Periodic Notes/Monthly Periodic": "TiTimeline",
+  "Periodic Notes/Quarterly Periodic": "TiTimeline",
+  "Periodic Notes/Weekly Periodic": "TiTimeline",
+  "Obsidian Administration/Obsidian Color & Format/Obsidian Color Scheme Logic Page.md": "BoBxsPaintRoll",
+  "Developmental Literature/HTML & CSS by Jon Duckett": "FasQuoteRight",
+  "Developmental Literature/Comptia A+ Cetification Exam Guide by Meyers Everett Hutz": "FasQuoteRight",
+  "Developmental Literature/Mastering Ubuntu Server by Jay LaCroix": "FasQuoteRight",
+  "Developmental Literature/How Cybersecurity Really Works by Sam Grubb": "FasQuoteRight",
+  "Developmental Literature/The Linux Command Line by William Shotts": "FasQuoteRight",
+  "Developmental Literature/The Big Book Of Small Python Projects by Al Sweigart": "FasQuoteRight",
+  "Developmental Literature/Beginner's Step By Step Coding Course by Martin Goodfellow": "FasQuoteRight",
+  "Home Administation": "RiHomeFill",
+  "Home Administation/Family Member Data": "FasPeopleGroup",
+  "Home Administation/Household Maintenance": "FiTool",
+  "Home Administation/Household Maintenance/Home Repair Records": "RaRepair",
+  "Home Administation/Automobile Maintenance/Automobile Repair Records": "RaRepair",
+  "Home Administation/Automobile Maintenance": "TiCar",
+  "Home Administation/Family Member Data/Insurance Brakdowns": "TiInfoSquareRounded",
+  "Home Administation/Family Member Data/Dental Records": "FasTeethOpen",
+  "Home Administation/Family Member Data/Medical Records": "RiHealthBookFill",
+  "Home Administation/Family Member Data/Educational Records": "TiSchool",
+  "Home Administation/Family Member Data/Educational Records/Aurora Analyn Hurston": "RiUserReceived2Fill",
+  "Home Administation/Family Member Data/Educational Records/Kyle Matthew Hurston": "RiUserReceived2Fill",
+  "Home Administation/Family Member Data/Educational Records/Nicle Elizabeth Hurston": "RiUserReceived2Fill",
+  "Personal Development/Physical Systems & Components/Cooling/Fan Cooling": "FasFan",
+  "Personal Development/Physical Systems & Components/Cooling/Water Cooling": "FasGlassWaterDroplet",
+  "Personal Development/Physical Systems & Components/Cooling": "TiSnowflake",
+  "Personal Development/Physical Systems & Components/Computer Processing Units": "LiCpu",
+  "Personal Development/Physical Systems & Components/Desktop PCs": "SiPcgamingwiki",
+  "Personal Development/Physical Systems & Components/Graphical Processing Units": "SiNvidia",
+  "Personal Development/Physical Systems & Components/Laptops": "FasLaptopFile",
+  "Personal Development/Physical Systems & Components/Monitors": "LiMonitor",
+  "Personal Development/Physical Systems & Components/Motherboards": "TiDeviceIpadHorizontalPlus",
+  "Personal Development/Physical Systems & Components/RAM": "FasDiagramNext",
+  "Personal Development/Cybersecurity/Security+ Practice Exams": "SiTestcafe",
+  "Personal Development/Networking/CCNA Practice Exams": "SiTestcafe",
+  "Temporary Note Cache": "SiTemporal",
+  "System Administration": "RaGears",
+  "System Administration/Program Installations/Aggregated Debian Package Lists.md": "SiDebian",
+  "System Administration/Program Installations": "RiInstallLine",
+  "System Administration/Program Installations/Aggregated Arch Installations.md": "SiArchlinux",
+  "System Administration/Program Installations/Aggregated Windows Installations.md": "RiWindowsFill",
+  "System Administration/Program Installations/Aggregated Ubuntu Installations.md": "SiUbuntu",
+  "System Administration/Program Installations/Aggregated MacOS Installations.md": "SiApple",
+  "Financial Administration/Banking": "RiBankFill",
+  "Financial Administration/Bankruptcy": "LiScale",
+  "Financial Administration/Billing": "RiBillLine",
+  "Financial Administration/Credit Score": "TiLockSquareRoundedFilled",
+  "Financial Administration/Fraud": "FabSquareFontAwesomeStroke",
+  "Financial Administration/Investments": "LiAlignVerticalJustifyEnd",
+  "Financial Administration/Liabilities": "TiSquareRoundedMinusFilled",
+  "System Administration/Tutorials": "FasClipboardQuestion",
+  "Temporary Note Cache/Instruction.md": "SiInstructure",
+  "System Administration/Tutorials/Font Installation On Ubuntu Linux System.md": "SiFontforge",
+  "System Administration/Scripts": "SiPurescript",
+  "Obsidian Administration/Obsidian Integrations/Github Account Integration": "SiGithub",
+  "Obsidian Administration/Obsidian Integrations/Github Account Integration/01. Initial Setup": "SiGithub",
+  "Obsidian Administration/Obsidian Integrations/Github Account Integration/01. Initial Setup/Caching Git Credentials On Linux.md": "LiGitMerge",
+  "Obsidian Administration/Obsidian Integrations/Github Account Integration/01. Initial Setup/Github CLI General Overview.md": "LiGitMerge",
+  "Obsidian Administration/Obsidian Integrations/Github Account Integration/01. Initial Setup/Self Hosted Github Runners.md": "LiGitMerge",
+  "Bookmarked Resources/Web Resource Bookmarks": "IbLink",
+  "Bookmarked Resources": "RiBookMarkLine",
+  "Bookmarked Resources/Web Resource Bookmarks/Aesthetics & Design Related Bookmarks.md": "FasPaintbrush",
+  "Bookmarked Resources/Web Resource Bookmarks/Finance Resource Bookmarks.md": "TiBrandCashapp",
+  "Bookmarked Resources/Web Resource Bookmarks/Research Resource Bookmarks.md": "TiReportSearch",
+  "Personal Development/Linux": "SiLinux",
+  "Personal Development/Glossary": "TiAbc",
+  "Personal Development/Cybersecurity/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Finance/Articles": "TiArticle",
+  "Personal Development/Finance/Investment": "TiGraph",
+  "Personal Development/Finance/Terminology": "RiFileWord2Line",
+  "Personal Development/Programming": "TiCodeCircle2",
+  "Temporary Note Cache/Network Requirement Considerations.md": "RiQuestionFill",
+  "Personal Development/Cryptocurrency/Planned Allocation List.md": "RiSendPlaneLine",
+  "Personal Development/CBTN Sec+ Course/000. Practice Exams": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/022. Cybersecurity In The Cloud": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/025. Certificates & The PKI": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/027. Assessing An Organizations Security": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/028. Incedent Readiness & Frameworks": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/029. Incident Response & Forensic Data Collection": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course/030. Standards, Regulations, And Controls": "RiSoundModuleLine",
+  "Personal Development/CBTN Sec+ Course": "SiCyberdefenders",
+  "Periodic Notes/Daily Periodic/2024-02-10.md": "TiBrandDaysCounter",
+  "Periodic Notes/Daily Periodic/2024-06-09.md": "TiBrandDaysCounter",
+  "Periodic Notes/Daily Periodic/2024-02-11.md": "TiBrandDaysCounter",
+  "Periodic Notes/Monthly Periodic/2024-02.md": "TiBrandDaysCounter",
+  "Periodic Notes/Weekly Periodic/2024-W06.md": "TiBrandDaysCounter",
+  "Obsidian Administration/Obsidian Attachments": "LiPaperclip",
+  "Github Administration": "SiGithub",
+  "Github Administration/Images For Repo Upload": "RiCamera3Line",
+  "Github Administration/Images For Repo Upload/Filesystem Image Uploads.md": "TiScreenshot",
+  "Financial Administration/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Attachments/Home Directory Overview Image.png": "TiScreenshot",
+  "Obsidian Administration/Obsidian Attachments/Home Directory With Hidden Overview Image.png": "TiScreenshot",
+  "Personal Development/CBTN Sec+ Course/000. Practice Exams/Comptia Sec+ Practice Exam.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/022. Cybersecurity In The Cloud/02. Security Patterns & Controls.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/022. Cybersecurity In The Cloud/03. Cloud Storage Security.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/022. Cybersecurity In The Cloud/04. Cloud Network Security.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/022. Cybersecurity In The Cloud/05. Cloud Compute Security.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/022. Cybersecurity In The Cloud/06. Cloud Security Solutions.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls/01. Intro To Authentication & Authorization.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls/02. Shared Accounts.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls/08. Quiz & Review On Account Management Controls.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls/07. Single Sign On & SSO.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls/06. Verifying Identity.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls/05. Service Accounts.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls/04. Guest Accounts.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/023. Account Management Controls/03. User Accounts.md": "TiNewSection",
+  "Personal Development/Glossary/S Terms": "FasS",
+  "Personal Development/Glossary/S Terms/Secure Shell Protocol (SSH).md": "IbTabcellsAdd",
+  "Personal Development/Glossary/B Terms": "FasB",
+  "Personal Development/Glossary/B Terms/Bastion Host (Jump Server) (Jump Box).md": "IbTabcellsAdd",
+  "Personal Development/Glossary/N Terms": "FasN",
+  "Personal Development/Glossary/D Terms": "FasD",
+  "Personal Development/Glossary/A Terms": "FasA",
+  "Personal Development/Glossary/C Terms": "FasC",
+  "Personal Development/Glossary/E Terms": "FasE",
+  "Personal Development/Glossary/F Terms": "FasF",
+  "Personal Development/Glossary/G Terms": "FasG",
+  "Personal Development/Glossary/H Terms": "FasH",
+  "Personal Development/Glossary/I Terms": "FasI",
+  "Personal Development/Glossary/J Terms": "FasJ",
+  "Personal Development/Glossary/K Terms": "FasK",
+  "Personal Development/Glossary/L Terms": "FasL",
+  "Personal Development/Glossary/M Terms": "FasM",
+  "Personal Development/Glossary/O Terms": "FasO",
+  "Personal Development/Glossary/P Terms": "FasP",
+  "Personal Development/Glossary/Q Terms": "FasQ",
+  "Personal Development/Glossary/R Terms": "FasR",
+  "Personal Development/Glossary/T TErms": "FasT",
+  "Personal Development/Glossary/W Terms": "FasW",
+  "Personal Development/Glossary/U Terms": "FasU",
+  "Personal Development/Glossary/V Terms": "FasV",
+  "Personal Development/Glossary/X Terms": "FasX",
+  "Personal Development/Glossary/Y Terms": "FasY",
+  "Personal Development/Glossary/Z Terms": "FasZ",
+  "Personal Development/Linux/Arch Linux": "SiArchlinux",
+  "Personal Development/Linux/General Concepts": "FabLinux",
+  "Personal Development/Linux/Debian Linux": "SiDebian",
+  "Personal Development/Linux/Rocky Linux": "SiRockylinux",
+  "Personal Development/Linux/Ubuntu Linux": "SiUbuntu",
+  "Personal Development/Linux/Red Hat Linux": "SiRedhat",
+  "Personal Development/Linux/Fedora Linux": "SiFedora",
+  "Personal Development/Linux/Cent OS": "SiCentos",
+  "Personal Development/Linux/Open SUSE": "SiSuse",
+  "Personal Development/Obsidian/Tutorials": "RiGuideFill",
+  "System Administration/Product Keys & Licenses/Sublime Text License Key.md": "TiBrandSublimeText",
+  "System Administration/Product Keys & Licenses": "TiKey",
+  "System Administration/Account Recovery": "TiBrandCouchsurfing",
+  "System Administration/Account Recovery/Proton Mail Suite Recovery.md": "SiProton",
+  "System Administration/Scripts/ProgramFetch Script.md": "RiCodeBoxLine",
+  "System Administration/Scripts/FontFetch Script.md": "RiCodeBoxLine",
+  "System Administration/Scripts/NerdFontFetch Script.md": "RiCodeBoxLine",
+  "Personal Development/Programming/Zsh/What Is ZSH???.md": "RiQuestionFill",
+  "Personal Development/Programming/Zsh": "SiZulip",
+  "Personal Development/Programming/Taxii": "TiLayoutSidebarLeftExpandFilled",
+  "Personal Development/Programming/Swift": "FabSwift",
+  "Personal Development/Programming/Sql": "SiPostgresql",
+  "Personal Development/Programming/Rust": "SiRust",
+  "Personal Development/Programming/React": "SiReact",
+  "Personal Development/Programming/R": "SiR",
+  "Personal Development/Programming/Python": "FabPython",
+  "Personal Development/Programming/Powershell": "TiBrandPowershell",
+  "Personal Development/Programming/Php": "SiPhp",
+  "Personal Development/Programming/Markdown": "SiMarkdown",
+  "Personal Development/Programming/Lua": "SiLua",
+  "Personal Development/Programming/Jquery": "SiJquery",
+  "Personal Development/Programming/Java": "FabJava",
+  "Personal Development/Programming/Jango": "SiDjango",
+  "Personal Development/Programming/Htmx": "TiAlignBoxRightMiddle",
+  "Personal Development/Programming/Html": "FabHtml5",
+  "Personal Development/Programming/Haskell": "SiHaskell",
+  "Personal Development/Programming/Golang": "FabGolang",
+  "Personal Development/Programming/Git": "SiGit",
+  "Personal Development/Programming/Fish": "RaFish",
+  "Personal Development/Programming/Css": "FabCss3Alt",
+  "Personal Development/Programming/Cisco": "SiCisco",
+  "Personal Development/Programming/C++": "SiCplusplus",
+  "Personal Development/Programming/C": "SiC",
+  "Personal Development/Programming/Bash": "SiGnubash",
+  "Personal Development/Programming/C Sharp": "SiCsharp",
+  "Personal Development/Programming/Assembly": "TiAssembly",
+  "Personal Development/Programming/Web Assembly": "SiWebassembly",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions/01. Introduction To Authenticaiton & Authorization.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions/02. Access Control Overview.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions/03. Mandatory Access Control (MAC).md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions/04. Discretionary Access Control (DAC).md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions/05. Authentication Management.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions/06. Authentication & Authorization.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions/07. Single Sign On (SSO).md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/024. Authentication & Authorization Solutions/08. Quiz & Review.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/025. Certificates & The PKI/01. Introduction To Digital Certificates & The PKI.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/025. Certificates & The PKI/02. Symmetrical Versus Assymetrical Encryption.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/025. Certificates & The PKI/03. Digital Certificates Overview.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/025. Certificates & The PKI/04. Digital Signatures.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/025. Certificates & The PKI/06. Public Key Infastructure.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/025. Certificates & The PKI/07. Quiz & Review.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/025. Certificates & The PKI/05. Creating An HTTPS Session Key.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI/01. Introduction To Implementing PKI.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI/02. Public & Private Key Review.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI/03. Certificate Types & Usage.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI/04. Certificate Attributes.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI/05. CA Options.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI/06. CSRs & Certificate Encoding.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI/07. Bad Certificates.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/026. Implementing PKI/08. Quiz and Review.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/027. Assessing An Organizations Security/01. Network Assesment Tools - Part 1.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/027. Assessing An Organizations Security/02. Network Assessment Tools - Part 2.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/027. Assessing An Organizations Security/03. Basic NMAP Commands.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/027. Assessing An Organizations Security/05. Forensic Tools & Data Sanitization.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/027. Assessing An Organizations Security/04. File Manipulation & Shell Tools.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/028. Incedent Readiness & Frameworks/01. Exploitation Frameworks.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/028. Incedent Readiness & Frameworks/02. Credential Attacks Part 01.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/028. Incedent Readiness & Frameworks/04. Incident Response Process.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/028. Incedent Readiness & Frameworks/06. Additional Plans & Considerations.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/028. Incedent Readiness & Frameworks/05. Attack Frameworks.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/028. Incedent Readiness & Frameworks/03. Credential Attacks Part 02.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/029. Incident Response & Forensic Data Collection/01. Identifying An Incident.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/029. Incident Response & Forensic Data Collection/04. Forensics In The Cloud.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/029. Incident Response & Forensic Data Collection/03. Forensic Data Collection.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/029. Incident Response & Forensic Data Collection/02. Containing & Mitigating An Outbreak.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/029. Incident Response & Forensic Data Collection/05. Forensic Evidence Management.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/030. Standards, Regulations, And Controls/01. Introduction to Standards, Regulations, and Controls.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/030. Standards, Regulations, And Controls/03. Control Functions.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/030. Standards, Regulations, And Controls/02. Control Types.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/030. Standards, Regulations, And Controls/04. Regulations, Standards, and Legislation.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/030. Standards, Regulations, And Controls/05. Key Frameworks.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/030. Standards, Regulations, And Controls/07. Quiz & Review.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/030. Standards, Regulations, And Controls/06. Benchmarks and Guides For Secure Configuration.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/01. Intro To Policies For Security.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/02. Policies About Personnel.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/04. Diversity In Security.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/03. Policies And Culture For Learning.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/05. End Of Life Policies.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/06. Data Policies.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/09. Quiz & Review.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/08. Policies About Change.md": "TiNewSection",
+  "Personal Development/CBTN Sec+ Course/031. Policies For Security/07. Credential Policies.md": "TiNewSection",
+  "Financial Administration/Banking/Bank Issued Credit Cards": "BoBxCreditCard",
+  "Financial Administration/Banking/Bank Managed Investments": "RiStockLine",
+  "Financial Administration/Banking/Checking Accoutns": "FasCheckToSlot",
+  "Financial Administration/Banking/Loan Offers": "TiFloatNone",
+  "Financial Administration/Banking/Savings Accounts": "RiSave3Line",
+  "Financial Administration/Bankruptcy/Correspondance": "RiKakaoTalkLine",
+  "Financial Administration/Bankruptcy/Timelines": "TiTimeline",
+  "Financial Administration/Billing/Annual Billing": "CoCalendarDays",
+  "Financial Administration/Billing/Irregular Billing": "CoCalendarDays",
+  "Financial Administration/Billing/Monthly Billing": "CoCalendarDays",
+  "Financial Administration/Billing/One Time Billing": "CoCalendarDays",
+  "Financial Administration/Fraud/Fraud Investigations": "FasMagnifyingGlassChart",
+  "Financial Administration/Fraud/Fraudulent Claim History": "RiHistoryFill",
+  "Financial Administration/Investments/401K Retirement": "FabCreativeCommonsShare",
+  "Financial Administration/Investments/Cryptocurrency": "FabEthereum",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage": "BoBxsWallet",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Cold Storage Wallets": "RiTempColdLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Cold Storage Wallets/Ledger Cold Storage": "RiWalletLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Cold Storage Wallets/Tangem Cold Storage": "RiWalletLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Cold Storage Wallets/Trezor Cold Storage": "RiWalletLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges": "TiExchange",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Decentralized Exchanges": "TiExchange",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets": "RaFire",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Web Wallets": "RiGlobeFill",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Web Wallets/Metamask Web Wallet": "RiWalletLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Web Wallets/Phantom Web Wallet": "RiWalletLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/Mexc Exchange": "RiWalletLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/Crypto.Com Exchange": "RiWalletLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/Bityard Exchange": "RiWalletLine",
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/Binance Exchange": "RiWalletLine",
+  "Financial Administration/Investments/Real Estate": "FasHouseFire",
+  "Financial Administration/Investments/Real Estate/Landa (Fractional Shares)": "TiHomeDollar",
+  "Financial Administration/Investments/Real Estate/Mortgage": "TiHomeDollar",
+  "Financial Administration/Investments/Real Estate/Rental Properties": "TiHomeDollar",
+  "Financial Administration/Investments/Stock Market": "RiStockFill",
+  "Financial Administration/Investments/Stock Market/MooMoo Financial": "RiStockLine",
+  "Financial Administration/Investments/Traditional Savings": "RiSave3Line",
+  "Financial Administration/Liabilities/Credit Cards": "FarCreditCard",
+  "Financial Administration/Liabilities/Delinquencies": "TiTemplate",
+  "Financial Administration/Liabilities/Loans": "TiFloatNone",
+  "Financial Administration/Liabilities/Object Liability": "TiCar",
+  "Personal Development/Glossary/N Terms/Network Address Translation (NAT).md": "IbTabcellsAdd",
+  "Personal Development/Glossary/M Terms/Untitled Kanban.md": "IbTabcellsAdd",
+  "Personal Development/Linux/Arch Linux/Common Operations": "SiOpsgenie",
+  "Personal Development/Linux/Arch Linux/Common Operations/Enabling Wayland For Chrome & Chromium.md": "FasRightToBracket",
+  "Personal Development/Linux/Arch Linux/Common Operations/Rolling Back Linux Kernel Versions.md": "FasRightToBracket",
+  "Personal Development/Linux/General Concepts/Centralized Key Management Within Linux.md": "FasRightToBracket",
+  "Personal Development/Linux/General Concepts/Using 'dd' For ISO Creation.md": "FasRightToBracket",
+  "Personal Development/Programming/Bash/What Is Bash???.md": "RiQuestionFill",
+  "Personal Development/Programming/C/What Is C???.md": "RiQuestionFill",
+  "Personal Development/Programming/C++/What Is C++???.md": "RiQuestionFill",
+  "Personal Development/Programming/Cisco/What Is Cisco???.md": "RiQuestionFill",
+  "Personal Development/Programming/Css/What Is CSS???.md": "RiQuestionFill",
+  "Personal Development/Programming/Fish/What Is Fish???.md": "RiQuestionFill",
+  "Personal Development/Programming/Git/What Is Git???.md": "RiQuestionFill",
+  "Personal Development/Programming/Golang/What Is GoLang???.md": "RiQuestionFill",
+  "Personal Development/Programming/Haskell/What Is Haskell???.md": "RiQuestionFill",
+  "Personal Development/Programming/Html/What Is HTML???.md": "RiQuestionFill",
+  "Personal Development/Programming/Htmx/What Is HTMX?.md": "RiQuestionFill",
+  "Personal Development/Programming/Jango/What Is Jango???.md": "RiQuestionFill",
+  "Personal Development/Programming/Java/What Is Java???.md": "RiQuestionFill",
+  "Personal Development/Programming/Jquery/What Is Jquery???.md": "RiQuestionFill",
+  "Personal Development/Programming/Lua/What Is Lua???.md": "RiQuestionFill",
+  "Personal Development/Programming/Sql/What Is SQL???.md": "RiQuestionFill",
+  "Personal Development/Programming/Swift/What Is Swift???.md": "RiQuestionFill",
+  "Personal Development/Programming/Rust/What Is Rust???.md": "RiQuestionFill",
+  "Personal Development/Programming/React/What Is React???.md": "RiQuestionFill",
+  "Personal Development/Programming/R/What Is R???.md": "RiQuestionFill",
+  "Personal Development/Programming/Python/What Is Python???.md": "RiQuestionFill",
+  "Personal Development/Programming/Powershell/What  Is Powershell???.md": "RiQuestionFill",
+  "Personal Development/Programming/Php/What Is PHP???.md": "RiQuestionFill",
+  "Personal Development/Programming/Markdown/What Is Markdown???.md": "RiQuestionFill",
+  "Personal Development/Programming/Taxii/What Is Taxii???.md": "RiQuestionFill",
+  "Personal Development/Programming/Web Assembly/What Is Web Assembly???.md": "RiQuestionFill",
+  "Obsidian Administration/Obsidian Templates/Account Templates": "TiUsers",
+  "Obsidian Administration/Obsidian Templates/Directory Templates": "CoFolders",
+  "Obsidian Administration/Obsidian Attachments/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Templates/Directory Templates/Directory Template Title Insertion Template.md": "RiBardFill",
+  "Obsidian Administration/Obsidian Templates/Directory Templates/Directory Index Template.md": "RiBardFill",
+  "Periodic Notes/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Literature/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "System Administration/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "System Administration/Scripts/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "System Administration/Program Installations/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "System Administration/Product Keys & Licenses/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/CBTN Sec+ Course/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Cryptocurrency/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Finance/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Networking/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "System Administration/Tutorials/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "System Administration/Account Recovery/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Literature/Fierce Conversations by Susan Scott/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Literature/Principles by Ray Dalio/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Literature/The Psychology Of Money by Morgan Housel/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Programming/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Programming/Javascript": "RiJavascriptFill",
+  "Personal Development/Physical Systems & Components/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/RAM/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/S Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/R Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/Q Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/P Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/Z Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/Y Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/W Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/V Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/U Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/T TErms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/O Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/N Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/M Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/L Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/K Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/J Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/H Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/I Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/G Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/F Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/E Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/D Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/A Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/B Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/C Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Glossary/X Terms/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Arch Linux/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Rocky Linux/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Ubuntu Linux/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Red Hat Linux/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Open SUSE/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/General Concepts/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Fedora Linux/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Debian Linux/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Cent OS/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Linux/Arch Linux/Common Operations/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Networking/CCNA Practice Exams/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Computer Processing Units/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Obsidian/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Obsidian/Tutorials/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Motherboards/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Monitors/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Laptops/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Graphical Processing Units/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Desktop PCs/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Cooling/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Cooling/Water Cooling/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Physical Systems & Components/Cooling/Fan Cooling/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Temporary Note Cache/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Finance/Articles/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Finance/Investment/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Finance/Terminology/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Personal Development/Cybersecurity/Security+ Practice Exams/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Templates/Account Templates/New Account Template.md": "FasUserPen",
+  "Obsidian Administration/Obsidian Log Files/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Color & Format/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Integrations/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Integrations/Github Account Integration/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Integrations/Github Account Integration/01. Initial Setup/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Log Files/Brat Plugin/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Templates/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Household Maintenance/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Family Member Data/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Family Member Data/Medical Records/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Family Member Data/Insurance Brakdowns/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Family Member Data/Educational Records/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Family Member Data/Educational Records/Nicle Elizabeth Hurston/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Family Member Data/Educational Records/Kyle Matthew Hurston/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Family Member Data/Educational Records/Aurora Analyn Hurston/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Family Member Data/Dental Records/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Automobile Maintenance/Automobile Repair Records/000. Diretcory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Home Administation/Automobile Maintenance/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Liabilities/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Liabilities/Credit Cards/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Liabilities/Delinquencies/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Liabilities/Loans/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Liabilities/Object Liability/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Real Estate/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Stock Market/MooMoo Financial/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Stock Market/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Traditional Savings/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Real Estate/Mortgage/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Real Estate/Landa (Fractional Shares)/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/401K Retirement/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/Mexc Exchange/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/Crypto.Com Exchange/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/Bityard Exchange/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/Binance Exchange/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Real Estate/Rental Properties/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Decentralized Exchanges/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Hot Exchange Wallets/Centralized Exchanges/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Web Wallets/Phantom Web Wallet/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Investments/Cryptocurrency/Wallet Storage/Web Wallets/Metamask Web Wallet/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Fraud/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Fraud/Fraudulent Claim History/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a79"
+  },
+  "Financial Administration/Fraud/Fraud Investigations/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Credit Score/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Billing/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Billing/One Time Billing/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Billing/Monthly Billing/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Billing/Irregular Billing/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Billing/Annual Billing/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Bankruptcy/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Bankruptcy/Correspondance/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Bankruptcy/Timelines/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Banking/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Banking/Bank Issued Credit Cards/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Banking/Bank Managed Investments/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Banking/Loan Offers/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Banking/Checking Accoutns/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Financial Administration/Banking/Savings Accounts/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Command Line References/Linux Command Line/Apt Commands/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Command Line References/Linux Command Line/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Command Line References/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Bookmarked Resources/Web Resource Bookmarks/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Bookmarked Resources/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Command Line References/Linux Command Line/Apt Commands/Apt Commands.md": "CoCode",
+  "Command Line References/Linux Command Line/Apt Commands": "SiCodepen",
+  "Command Line References/Linux Command Line": "SiLinux",
+  "Command Line References/Linux Command Line/Pacman Commands": "SiCodepen",
+  "Command Line References/Linux Command Line/Dpkg Commands": "SiCodepen",
+  "Command Line References/Linux Command Line/Zypper Commands": "SiCodepen",
+  "Command Line References/Linux Command Line/Dpkg Commands/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Command Line References/Linux Command Line/Pacman Commands/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Command Line References/Linux Command Line/Zypper Commands/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Command Line References/Windows Command Line": "TiBrandWindows",
+  "Command Line References/Apple Command Line": "RiAppleLine",
+  "Command Line References/Windows Command Line/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Command Line References/Apple Command Line/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/Beginner's Step By Step Coding Course by Martin Goodfellow/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/Comptia Security+ Study Guide by Mike Chapple & David Seidl/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/HTML & CSS by Jon Duckett/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/Networking All In One by Doug Lowe/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a79"
+  },
+  "Developmental Literature/The Big Book Of Small Python Projects by Al Sweigart/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/The Linux Command Line by William Shotts/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/Mastering Ubuntu Server by Jay LaCroix/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/How Cybersecurity Really Works by Sam Grubb/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/Comptia A+ Cetification Exam Guide by Meyers Everett Hutz/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates": "LiRemoveFormatting",
+  "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/Code Block Insertion Template.md": "TiBlockquote",
+  "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/Abstract Admonition & Highlight Input.md": "SiAbstract",
+  "Developmental Literature/Practical SQL by ANthony Debarros": "LiQuote",
+  "Developmental Literature/Practical SQL by ANthony Debarros/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "Developmental Literature/Practical SQL by ANthony Debarros/Chapter 01 - Setting Up Your Environment.md": "CoChat",
+  "Developmental Literature/Practical SQL by ANthony Debarros/Chapter 02 - Creating Your First Database and Table.md": "CoChat",
+  "System Administration/System Customization": "BoBxCustomize",
+  "System Administration/System Customization/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "System Administration/System Customization/Dolphin File Manager": "RiFolder5Line",
+  "System Administration/System Customization/Dolphin File Manager/17 Tips & Tricks For The Dolphin File Manager.md": "SiKde",
+  "System Administration/System Customization/Dolphin File Manager/Perfecting Dolphin File Manager.md": "SiKde",
+  "System Administration/System Customization/Dolphin File Manager/000. Directory Index.md": {
+    "iconName": "RiBardFill",
+    "iconColor": "#7a7a7a"
+  },
+  "System Administration/Tutorials/Sublime Text Editor": "SiSublimetext",
+  "System Administration/Tutorials/Sublime Text Editor/Installation Of Sublime Merge With Local Repository Integration.md": {
+    "iconName": "TiBrandSublimeText",
+    "iconColor": "#6dee82"
+  },
+  "System Administration/Tutorials/Sublime Text Editor/Installation Of Sublime Text Editor.md": {
+    "iconName": "TiBrandSublimeText",
+    "iconColor": "#6dee82"
+  },
+  "Obsidian Administration/Obsidian Attachments/Practical SQL Reference Image.png": "TiScreenshot"
+}

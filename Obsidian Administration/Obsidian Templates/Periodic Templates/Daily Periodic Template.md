@@ -1,0 +1,70 @@
+# Today's Critical Priority Tasklist 
+---
+#critical-tasks #daily-review #periodic-daily #periodic #journal-log
+
+#### Daily Scheduled Events
+---
+- [c] 
+- [c] 
+- [c] 
+- [c] 
+##### New Knowledge Acquired 
+- [i] 
+- [i] 
+- [i] 
+- [i]  
+- [i] 
+- [i] 
+- [i] 
+- [i] 
+##### Questions Generated From Research Today
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+- [?] 
+#### Worries & Concerns 
+- [f] 
+- [f] 
+- [f] 
+- [f] 
+- [f] 
+- [f] 
+- [f] 
+- [f] 
+#### Roadblocks To Progress
+- [_] 
+- [_] 
+- [_] 
+- [_] 
+- [_] 
+- [_] 
+###### Manic Process Delays
+- [A] 
+- [A] 
+- [A]  
+- [A] 
+- [A] 
+- [A]  
+###### Physical Health Upkeep 
+- [G] 
+- [G] 
+- [G] 
+- [G] 
+- [G] 
+- [G] 
+## Daily Journal Summary
+- [E] 
+- [E] 
+- [E] 
+## Daily Summary Of Literature 
+- [b] `
+- [b] 
+- [b] 

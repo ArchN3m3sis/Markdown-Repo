@@ -1,0 +1,37 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Obsidian Administration/Obsidian Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "Obsidian Administration/Obsidian Templates/Periodic Templates/Monthly Periodic Template.md",
+    "Obsidian Administration/Obsidian Templates/Script Typeface  Templates/Subscript Template.md",
+    "Obsidian Administration/Obsidian Templates/Script Typeface  Templates/Superscript Template.md",
+    "Obsidian Administration/Obsidian Templates/Directory Templates/000. New Directory Index.md",
+    "Obsidian Administration/Obsidian Templates/Directory Templates/Directory Template Title Insertion Template.md",
+    "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/Abstract Admonition & Highlight Input.md",
+    "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/Code Block Insertion Template.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

@@ -1,0 +1,91 @@
+{
+  "statusBar": [
+    {
+      "prefix": "",
+      "suffix": " words",
+      "metric": {
+        "type": 0,
+        "counter": 0
+      }
+    },
+    {
+      "prefix": " ",
+      "suffix": " characters",
+      "metric": {
+        "type": 0,
+        "counter": 1
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "pages",
+      "metric": {
+        "type": 0,
+        "counter": 5
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "sentences",
+      "metric": {
+        "type": 0,
+        "counter": 2
+      }
+    }
+  ],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": " files",
+      "metric": {
+        "type": 2,
+        "counter": 6
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "characters",
+      "metric": {
+        "type": 2,
+        "counter": 1
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "words",
+      "metric": {
+        "type": 2,
+        "counter": 0
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "sentences",
+      "metric": {
+        "type": 2,
+        "counter": 2
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "pages",
+      "metric": {
+        "type": 2,
+        "counter": 5
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "citations",
+      "metric": {
+        "type": 2,
+        "counter": 4
+      }
+    }
+  ],
+  "countComments": false,
+  "collectStats": true,
+  "displaySectionCounts": false,
+  "pageWords": 300,
+  "statsPath": ".obsidian/vault-stats.json"
+}

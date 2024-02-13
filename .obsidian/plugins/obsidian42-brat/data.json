@@ -1,0 +1,13 @@
+{
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": true,
+  "loggingPath": "/Obsidian Administration/Obsidian Integration/Obsidian Log Files/Brat Plugin/Obsidian_Brat_Logs",
+  "loggingVerboseEnabled": true,
+  "debuggingMode": false,
+  "notificationsEnabled": true
+}

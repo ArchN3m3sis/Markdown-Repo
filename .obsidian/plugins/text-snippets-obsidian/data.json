@@ -1,0 +1,26 @@
+{
+  "snippets_file": "{box} : :BoBxsChevronsRight:\n{folder} : :BoBxFolderOpen:\n{file} :  :BoBxsFileDoc:\n\n\n\nc1 : - [C] \nc2 : - [c] \nc3 : - [D] \nc4 : - [d] \nc5 : - [i] \nc6 : - [I] \nc7 : - [p] \nc8 : - [P] \nc9 : - [}] \nc0 : - [{] \n",
+  "snippets": [
+    "{box} : :BoBxsChevronsRight:",
+    "{folder} : :BoBxFolderOpen:",
+    "{file} :  :BoBxsFileDoc:",
+    "c1 : - [C] ",
+    "c2 : - [c] ",
+    "c3 : - [D] ",
+    "c4 : - [d] ",
+    "c5 : - [i] ",
+    "c6 : - [I] ",
+    "c7 : - [p] ",
+    "c8 : - [P] ",
+    "c9 : - [}] ",
+    "c0 : - [{] "
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

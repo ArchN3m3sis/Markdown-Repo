@@ -1,0 +1,100 @@
+{
+  "periodic-notes:open-monthly-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "periodic-notes:next-monthly-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "periodic-notes:prev-monthly-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:Obsidian Administration/Obsidian Templates/Periodic Templates/Monthly Periodic Template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:Obsidian Administration/Obsidian Templates/Script Typeface  Templates/Subscript Template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "templater-obsidian:Obsidian Administration/Obsidian Templates/Script Typeface  Templates/Superscript Template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ],
+  "templater-obsidian:Obsidian Administration/Obsidian Templates/Directory Templates/000. New Directory Index.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:Obsidian Administration/Obsidian Templates/Directory Templates/Directory Template Title Insertion Template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "templater-obsidian:Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/Abstract Admonition & Highlight Input.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/Code Block Insertion Template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
+}

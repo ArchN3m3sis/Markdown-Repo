@@ -1,0 +1,23 @@
+{
+  "show-relative-date": true,
+  "date-colors": [
+    {
+      "distance": 3,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(99, 186, 63, 0.79)",
+      "color": "rgba(68, 255, 0, 0.74)",
+      "isToday": true
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isAfter": true,
+      "backgroundColor": "rgba(222, 105, 2, 0.86)",
+      "color": "rgba(255, 184, 0, 1)"
+    }
+  ],
+  "link-date-to-daily-note": true,
+  "archive-with-date": true
+}

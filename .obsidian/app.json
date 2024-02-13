@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "tabSize": 6,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
