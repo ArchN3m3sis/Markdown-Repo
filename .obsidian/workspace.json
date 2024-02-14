@@ -11,10 +11,8 @@
             "id": "0b8b6bfcb0ce6725",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Obsidian Administration/Obsidian Attachments/Practical SQL Reference Image.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Administration/Obsidian Attachments/Practical SQL Reference Image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Administration/Obsidian Attachments/Practical SQL Reference Image.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian Administration/Obsidian Attachments/Practical SQL Reference Image.png"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,45 +166,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "03ac8140f7ee4187",
+  "active": "0b8b6bfcb0ce6725",
   "lastOpenFiles": [
-    "System Administration/Product Keys & Licenses/Sublime Text License Key.md",
-    "System Administration/Tutorials/Sublime Text Editor/Installation Of Sublime Text Editor.md",
-    "System Administration/Tutorials/Sublime Text Editor/Installation Of Sublime Merge With Local Repository Integration.md",
-    "System Administration/Tutorials/000. Directory Index.md",
-    "System Administration/Program Installations/Aggregated Windows Installations.md",
-    "System Administration/Tutorials/Sublime Text Editor",
-    "System Administration/Program Installations/Aggregated Ubuntu Installations.md",
+    "Personal Development/Physical Systems & Components/Cooling/Fan Cooling/000. Directory Index.md",
+    "Personal Development/Linux/Arch Linux/Common Operations/Rolling Back Linux Kernel Versions.md",
+    "Personal Development/Linux/Arch Linux/Common Operations/Enabling Wayland For Chrome & Chromium.md",
+    "Personal Development/Linux/Arch Linux/Common Operations/000. Directory Index.md",
+    "Personal Development/Physical Systems & Components/Cooling/Water Cooling/000. Directory Index.md",
+    "Personal Development/Programming/Zsh/What Is ZSH???.md",
+    "Personal Development/Programming/Web Assembly/What Is Web Assembly???.md",
+    "Personal Development/Programming/Taxii/What Is Taxii???.md",
+    "Personal Development/Programming/Swift/What Is Swift???.md",
+    "Personal Development/Programming/Sql/What Is SQL???.md",
+    "Personal Development/Programming/Rust/What Is Rust???.md",
+    "Personal Development/Programming/React/What Is React???.md",
+    "Personal Development/Programming/R/What Is R???.md",
+    "Personal Development/Programming/Python/What Is Python???.md",
+    "Personal Development/Programming/Powershell/What  Is Powershell???.md",
+    "Personal Development/Programming/Php/What Is PHP???.md",
+    "Personal Development/Programming/Markdown/What Is Markdown???.md",
+    "Personal Development/Programming/Lua/What Is Lua???.md",
+    "Personal Development/Programming/Jquery/What Is Jquery???.md",
+    "Personal Development/Programming/Java/What Is Java???.md",
+    "Personal Development/Programming/Jango/What Is Jango???.md",
+    "Personal Development/Programming/Htmx/What Is HTMX?.md",
+    "Personal Development/Programming/Html/What Is HTML???.md",
+    "Personal Development/Programming/Haskell/What Is Haskell???.md",
+    "Personal Development/Programming/Golang/What Is GoLang???.md",
+    "Personal Development/Programming/Git/What Is Git???.md",
+    "Personal Development/Physical Systems & Components/Cooling/Water Cooling",
+    "Personal Development/Physical Systems & Components/Cooling/Fan Cooling",
+    "Personal Development/Linux/Arch Linux/Common Operations",
+    "Personal Development/Programming/Zsh",
+    "Personal Development/Programming/Web Assembly",
+    "Personal Development/Programming/Taxii",
+    "Personal Development/Programming/Swift",
+    "Personal Development/Programming/Sql",
+    "Personal Development/Programming/Rust",
+    "Personal Development/Programming/React",
     "Obsidian Administration/Obsidian Attachments/Practical SQL Reference Image.png",
-    "System Administration/System Customization/Dolphin File Manager/Fixing Mixmatched Color Backgrounds With KDE Globals.md",
-    "System Administration/System Customization/Dolphin File Manager/000. Directory Index.md",
-    "System Administration/System Customization/Dolphin File Manager/17 Tips & Tricks For The Dolphin File Manager.md",
-    "System Administration/System Customization/Dolphin File Manager",
-    "System Administration/System Customization/Dolphin File Manager/Perfecting Dolphin File Manager.md",
-    "System Administration/System Customization/000. Directory Index.md",
-    "System Administration/Tutorials/Font Installation On Ubuntu Linux System.md",
-    "System Administration/System Customization",
-    "Developmental Literature/Practical SQL by ANthony Debarros/Chapter 03 - Beginning Data Exploration With `SELECT`.md",
-    "Developmental Literature/Practical SQL by ANthony Debarros/Chapter 02 - Creating Your First Database and Table.md",
-    "Developmental Literature/Practical SQL by ANthony Debarros/Chapter 01 - Setting Up Your Environment.md",
-    "Bookmarked Resources/Web Resource Bookmarks/Research Resource Bookmarks.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Periodic Notes/Monthly Periodic/2024-02.md",
-    "Untitled 3.md",
-    "Untitled.md",
-    "Developmental Literature/Practical SQL by ANthony Debarros/000. Directory Index.md",
-    "Developmental Literature/Beginner's Step By Step Coding Course by Martin Goodfellow/000. Directory Index.md",
-    "Developmental Literature/Practical SQL by ANthony Debarros",
-    "Developmental Literature/Networking All In One by Doug Lowe/000. Directory Index.md",
-    "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/Abstract Admonition & Highlight Input.md",
-    "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates/Code Block Insertion Template.md",
-    "Obsidian Administration/Obsidian Templates/Formatting & Insertion  Templates",
-    "Command Line References/Apple Command Line",
-    "Command Line References/Windows Command Line",
-    "Command Line References/Linux Command Line/Zypper Commands",
-    "Command Line References/Linux Command Line/Dpkg Commands",
-    "Command Line References/Linux Command Line/Pacman Commands",
     "Obsidian Administration/Obsidian Attachments/Home Directory With Hidden Overview Image.png",
     "Obsidian Administration/Obsidian Attachments/Home Directory Overview Image.png"
   ]
