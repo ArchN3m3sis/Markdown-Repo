@@ -11,8 +11,12 @@
             "id": "0b8b6bfcb0ce6725",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test folder/contents.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test folder/contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test folder/contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test folder/contents.md"
+              }
             }
           },
           {
@@ -168,6 +176,8 @@
   },
   "active": "0b8b6bfcb0ce6725",
   "lastOpenFiles": [
+    "test folder/contents.md",
+    "test folder",
     "Personal Development/Physical Systems & Components/Cooling/Fan Cooling/000. Directory Index.md",
     "Personal Development/Linux/Arch Linux/Common Operations/Rolling Back Linux Kernel Versions.md",
     "Personal Development/Linux/Arch Linux/Common Operations/Enabling Wayland For Chrome & Chromium.md",
@@ -193,7 +203,6 @@
     "Personal Development/Programming/Html/What Is HTML???.md",
     "Personal Development/Programming/Haskell/What Is Haskell???.md",
     "Personal Development/Programming/Golang/What Is GoLang???.md",
-    "Personal Development/Programming/Git/What Is Git???.md",
     "Personal Development/Physical Systems & Components/Cooling/Water Cooling",
     "Personal Development/Physical Systems & Components/Cooling/Fan Cooling",
     "Personal Development/Linux/Arch Linux/Common Operations",
@@ -203,7 +212,6 @@
     "Personal Development/Programming/Swift",
     "Personal Development/Programming/Sql",
     "Personal Development/Programming/Rust",
-    "Personal Development/Programming/React",
     "Obsidian Administration/Obsidian Attachments/Practical SQL Reference Image.png",
     "Obsidian Administration/Obsidian Attachments/Home Directory With Hidden Overview Image.png",
     "Obsidian Administration/Obsidian Attachments/Home Directory Overview Image.png"
