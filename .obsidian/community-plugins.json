@@ -15,8 +15,8 @@
   "cm-editor-syntax-highlight-obsidian",
   "periodic-notes",
   "obsidian-code-block-enhancer",
-  "obsidian-git",
   "link-favicon",
   "better-word-count",
-  "text-snippets-obsidian"
+  "text-snippets-obsidian",
+  "obsidian-timestamper"
 ]

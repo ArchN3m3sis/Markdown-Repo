@@ -61,15 +61,6 @@
       "key": "N"
     }
   ],
-  "templater-obsidian:Obsidian Administration/Obsidian Templates/Directory Templates/Directory Template Title Insertion Template.md": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
   "workspace:undo-close-pane": [],
   "workspace:next-tab": [
     {
@@ -95,6 +86,23 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "obsidian-timestamper:obsidian-fast-timestamp": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": ";"
+    }
+  ],
+  "obsidian-timestamper:obsidian-custom-timestamp": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }

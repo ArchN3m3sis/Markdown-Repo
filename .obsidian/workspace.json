@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test folder/contents.md",
+                "file": "Github Administration/Images For Repo Upload/000. Directory Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test folder/contents.md",
+                "file": "Github Administration/Images For Repo Upload/000. Directory Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test folder/contents.md",
+                "file": "Github Administration/Images For Repo Upload/000. Directory Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test folder/contents.md"
+                "file": "Github Administration/Images For Repo Upload/000. Directory Index.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 332,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +177,13 @@
   },
   "active": "0b8b6bfcb0ce6725",
   "lastOpenFiles": [
-    "test folder/contents.md",
-    "test folder",
+    "Github Administration/How To Use Github/WIKIs Inside Of Github Repos.md",
+    "Github Administration/How To Use Github/README Files Inside Of Github Repos.md",
+    "Log/February 14th, 2024 - Wednesday.md",
+    "Github Administration/How To Use Github",
+    "Developmental Literature/Literature Wishlist/No Starch Press Wish List.md",
+    "Developmental Literature/Literature Wishlist",
+    "Log",
     "Personal Development/Physical Systems & Components/Cooling/Fan Cooling/000. Directory Index.md",
     "Personal Development/Linux/Arch Linux/Common Operations/Rolling Back Linux Kernel Versions.md",
     "Personal Development/Linux/Arch Linux/Common Operations/Enabling Wayland For Chrome & Chromium.md",
@@ -200,9 +206,6 @@
     "Personal Development/Programming/Java/What Is Java???.md",
     "Personal Development/Programming/Jango/What Is Jango???.md",
     "Personal Development/Programming/Htmx/What Is HTMX?.md",
-    "Personal Development/Programming/Html/What Is HTML???.md",
-    "Personal Development/Programming/Haskell/What Is Haskell???.md",
-    "Personal Development/Programming/Golang/What Is GoLang???.md",
     "Personal Development/Physical Systems & Components/Cooling/Water Cooling",
     "Personal Development/Physical Systems & Components/Cooling/Fan Cooling",
     "Personal Development/Linux/Arch Linux/Common Operations",
@@ -210,8 +213,6 @@
     "Personal Development/Programming/Web Assembly",
     "Personal Development/Programming/Taxii",
     "Personal Development/Programming/Swift",
-    "Personal Development/Programming/Sql",
-    "Personal Development/Programming/Rust",
     "Obsidian Administration/Obsidian Attachments/Practical SQL Reference Image.png",
     "Obsidian Administration/Obsidian Attachments/Home Directory With Hidden Overview Image.png",
     "Obsidian Administration/Obsidian Attachments/Home Directory Overview Image.png"
